@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AURAVIA by DIGISPARK | One Brain. Infinite Possibilities.</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:Arial,sans-serif}
+body{background:#020617;color:white}
+a{text-decoration:none}
+.top{background:#0ea5e9;padding:8px;text-align:center;font-size:13px;color:#fff;font-weight:bold}
+header{display:flex;justify-content:space-between;align-items:center;padding:18px 5%}
+.logo{font-size:26px;font-weight:900} .logo span{color:#0ea5e9}
+.logo small{display:block;font-size:11px;color:#94a3b8;letter-spacing:2px}
+nav a{color:#cbd5e1;margin:0 12px;font-size:14px}
+.btn{background:linear-gradient(90deg,#0ea5e9,#8b5cf6);color:white;padding:12px 22px;border-radius:30px;font-weight:bold;border:0;cursor:pointer}
+.hero{text-align:center;padding:70px 20px 40px}
+.hero h1{font-size:48px;line-height:1.1} .hero h1 span{background:linear-gradient(90deg,#38bdf8,#a78bfa);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.hero p{color:#94a3b8;margin:18px auto;max-width:650px;line-height:1.6}
+.badges span{background:#1e293b;padding:8px 14px;border-radius:20px;font-size:13px;margin:4px;display:inline-block;border:1px solid #334155}
+.section{padding:50px 5%;max-width:1100px;margin:auto}
+.section h2{text-align:center;font-size:32px;margin-bottom:8px}
+.section p.sub{text-align:center;color:#94a3b8;margin-bottom:30px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}
+.card{background:#0f172a;border:1px solid #1e293b;border-radius:18px;padding:22px}
+.card h3{margin:10px 0} .card p{color:#94a3b8;font-size:14px;line-height:1.6}
+.price{background:#0f172a;border:2px solid #1e293b;border-radius:18px;padding:25px;text-align:center}
+.price.pop{border-color:#0ea5e9;transform:scale(1.03);background:#0c1a2e}
+.price h3{color:#38bdf8} .price .amt{font-size:36px;font-weight:900;margin:12px 0}
+.price ul{list-style:none;color:#cbd5e1;font-size:14px;line-height:2}
+.price button{width:100%;margin-top:15px}
+.vajra{background:linear-gradient(90deg,#dc2626,#f97316);border-radius:18px;padding:25px;text-align:center;margin-top:20px}
+footer{background:#020617;border-top:1px solid #1e293b;text-align:center;padding:30px;color:#64748b;font-size:13px;line-height:1.8}
+.whatsapp{position:fixed;bottom:20px;right:20px;background:#22c55e;color:white;padding:14px 18px;border-radius:50px;font-weight:bold;z-index:99;box-shadow:0 5px 20px rgba(0,0,0,.4)}
+@media(max-width:600px){.hero h1{font-size:34px} nav{display:none}}
+</style>
+</head>
+<body>
+
+<div class="top">DIGISPARK | UDYAM-OD-12-0045138 | Jagatsinghpur, Odisha | FINAL PRODUCT - AURAVIA</div>
+
+<header>
+  <div class="logo">AURAVIA <span>🧠</span><small>BY DIGISPARK</small></div>
+  <nav><a href="#features">Features</a><a href="#products">Products</a><a href="#plans">Plans</a><a href="#contact">Contact</a></nav>
+  <a class="btn" href="https://wa.me/919999999999?text=Hi%20AURAVIA%20Free%20Demo%20Chahiye">Get Started →</a>
+</header>
+
+<div class="hero">
+  <div style="color:#38bdf8;font-weight:bold">✦ ONE BRAIN. INFINITE POSSIBILITIES. ✦</div>
+  <h1>Your Business Will Now<br><span>Run On Auto Pilot!</span></h1>
+  <p><b>AURAVIA</b> by <b>DIGISPARK</b> combines <b>AI + Cyber Security + Revenue Automation</b> into one intelligent ecosystem. No Manual Work. No Tension.</p>
+  <br>
+  <a class="btn" href="#plans">Start Automation - Get Free Demo →</a>
+  <a class="btn" style="background:#1e293b;margin-left:10px" href="#products">Explore Products</a>
+  <br><br>
+  <div class="badges"><span>✅ Auto Reply</span><span>✅ Auto Post</span><span>✅ Auto Payment</span><span>✅ Cyber Shield</span></div>
+</div>
+
+<div class="section" id="features">
+  <h2>What Does AURAVIA Do?</h2>
+  <p class="sub">Ek Brain - Teen Kaam - Pura Business Auto!</p>
+  <div class="grid">
+    <div class="card"><div style="font-size:30px">🤖</div><h3>1. NEUROAUTO - AI Automation</h3><p>Auto Reply To Customers, Email Marketing Automation, WhatsApp + Instagram Auto Post, Order + Payment Auto Tracking.</p></div>
+    <div class="card"><div style="font-size:30px">🛡️</div><h3>2. VAJRA PRO - Cyber Shield</h3><p>India's Most Affordable Cyber Shield. Website Security, Malware Protection, SSL + Backup. Sirf Rs. 499/-</p></div>
+    <div class="card"><div style="font-size:30px">🌐</div><h3>3. NEXUS - Hosting + Revenue</h3><p>Fast Hosting + Domain + SEO + Cloud + AI Scripts. Website Live In 24 Hours. Customer Se Paisa Auto Aayega.</p></div>
+    <div class="card"><div style="font-size:30px">📈</div><h3>4. Smart Dashboard</h3><p>Ek Jagah Sab Kuch Dekho - Kitne Customer Aaye, Kitna Payment Aaya, Kaun Si Post Chali. Sunday Ko 10 Min Check - Bas!</p></div>
+  </div>
+</div>
+
+<div class="section" id="products">
+  <h2>AURAVIA Plans - By DIGISPARK</h2>
+  <p class="sub">Ab Alag-Alag Nahi - Ek Hi Product, Teen Plans!</p>
+  <div class="grid" id="plans">
+    <div class="price"><h3>STARTER</h3><p style="color:#94a3b8">Chhoti Dukaan Ke Liye</p><div class="amt">Rs. 999<span style="font-size:14px"> / Month</span></div><ul><li>✅ Hosting + SSL + Email</li><li>✅ NEUROAUTO Auto Reply</li><li>✅ WhatsApp Auto Post</li><li>✅ VAJRA PRO Basic Security</li></ul><button class="btn" onclick="buy('Starter - Rs.999')">Buy Now</button></div>
+    <div class="price pop"><div style="background:#0ea5e9;display:inline-block;padding:4px 12px;border-radius:20px;font-size:12px">MOST POPULAR</div><h3 style="margin-top:10px">PRO</h3><p style="color:#94a3b8">Growing Business Ke Liye</p><div class="amt">Rs. 3,999<span style="font-size:14px"> / Month</span></div><ul><li>✅ Sab Kuch Starter Wala</li><li>✅ Domain + SEO</li><li>✅ Instagram + Email Automation</li><li>✅ VAJRA PRO Full Security</li></ul><button class="btn" onclick="buy('Pro - Rs.3999')">Buy Now</button></div>
+    <div class="price"><h3>PREMIUM</h3><p style="color:#94a3b8">Bade Business Ke Liye</p><div class="amt">Rs. 9,999<span style="font-size:14px"> / Month</span></div><ul><li>✅ Sab Kuch Pro Wala</li><li>✅ Cloud + AI Scripts</li><li>✅ Order + Payment Auto Tracking</li><li>✅ Webinar + Full Marketing</li></ul><button class="btn" onclick="buy('Premium - Rs.9999')">Buy Now</button></div>
+  </div>
+  <div class="vajra"><h2>🛡️ VAJRA PRO - Rs. 499/- Only</h2><p>India's Most Affordable Cyber Shield | Website Safe - Business Safe</p><br><button class="btn" style="background:white;color:#dc2626" onclick="buy('VAJRA PRO - Rs.499')">Get VAJRA PRO Now</button></div>
+</div>
+
+<div class="section" id="contact" style="text-align:center">
+  <h2>Free Demo Chahiye?</h2>
+  <p class="sub">WhatsApp Karo - 5 Minute Me Demo Mil Jayega!</p>
+  <a class="btn" href="https://wa.me/919999999999?text=Hi%20DIGISPARK%20AURAVIA%20Free%20Demo%20Chahiye">WhatsApp Pe Baat Karo →</a>
+  <p style="margin-top:20px;color:#94a3b8">Manoj Mandal | DIGISPARK | Raghunathpur, Jagatsinghpur, Odisha - 754132<br>Udyam No: UDYAM-OD-12-0045138</p>
+</div>
+
+<footer>© 2026 DIGISPARK | AURAVIA - One Brain. Infinite Possibilities.<br>Company: DIGISPARK | Product: AURAVIA | NEUROAUTO + NEXUS + VAJRA PRO - All Inside AURAVIA<br>No New Project - Only AURAVIA - FINAL</footer>
+
+<a class="whatsapp" href="https://wa.me/919999999999">💬 WhatsApp</a>
+
+<script>
+function buy(plan){
+  alert("Thank You! Aapne Chuna: " + plan + "\nAb WhatsApp Pe Baat Karo - Demo Mil Jayega!");
+  window.open("https://wa.me/919999999999?text=Hi%20Mujhe%20" + encodeURIComponent(plan) + "%20Chahiye", "_blank");
+}
+</script>
+</body>
+</html>
